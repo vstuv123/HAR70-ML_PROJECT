@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HAR70+ Activity Recognition — Streamlit App
 
 Interactive web application for Human Activity Recognition using the HAR70+ wearable sensor dataset.
@@ -64,3 +65,6 @@ har70_app/
 2. Go to [share.streamlit.io](https://share.streamlit.io)
 3. New App → set main file to `har70_app/app.py`
 4. Commit your `models/` folder to the repo (if files < 100 MB)
+=======
+# HAR70-ML_PROJECT
+>>>>>>> b124034f6c9b598ba3cb2225fdfc8dd460f6d7cf
